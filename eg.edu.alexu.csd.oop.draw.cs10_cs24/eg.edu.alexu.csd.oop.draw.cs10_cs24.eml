@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/eg.edu.alexu.csd.oop.draw.cs10_cs24"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="jogg-0.0.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jars/jogg-0.0.7.jar!/"/>
+	</lib>
+	<lib name="jorbis-0.0.15.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jars/jorbis-0.0.15.jar!/"/>
+	</lib>
+	<lib name="lwjgl.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jars/lwjgl.jar!/"/>
+	</lib>
+	<lib name="slick.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jars/slick.jar!/"/>
+	</lib>
+</component>

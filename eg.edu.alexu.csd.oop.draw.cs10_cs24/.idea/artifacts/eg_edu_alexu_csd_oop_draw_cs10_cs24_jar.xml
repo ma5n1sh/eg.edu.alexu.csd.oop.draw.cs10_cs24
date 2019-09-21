@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="eg.edu.alexu.csd.oop.draw.cs10_cs24:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/eg_edu_alexu_csd_oop_draw_cs10_cs24_jar</output-path>
+    <root id="archive" name="eg.edu.alexu.csd.oop.draw.cs10_cs24.jar">
+      <element id="module-output" name="eg.edu.alexu.csd.oop.draw.cs10_cs24" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/jars/jogg-0.0.7.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/jars/lwjgl.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/jars/slick.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/jars/jorbis-0.0.15.jar" />
+    </root>
+  </artifact>
+</component>
